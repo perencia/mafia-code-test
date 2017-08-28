@@ -7,6 +7,6 @@ TODO:
 
 Useful links I've used:
 
-* [PHP implementation](https://raw.githubusercontent.com/neburs/Code-Test-Mafia/master/STATEMENT.md)
+* [PHP implementation](https://github.com/neburs/Code-Test-Mafia)
 * [Python implementation](https://github.com/dompuiu/puzzles/tree/master/mafia-problem)
  
